@@ -40,7 +40,10 @@
 
 실제 공장에서 본 모델을 사용한다고 가정했을 때 풀무원의 10개의 공장에서 ```각 공장 당 월 10만2천원의 비용``` 이 필요함을 계산하여 충분히 현실적인 솔루션임을 입증했습니다.
     <img width="953" alt="스크린샷 2024-12-04 오후 5 03 02" src="https://github.com/user-attachments/assets/560a9074-8d01-4def-9f5c-e0597186d945">
-
+    
+## 📊 관리자 대시보드 설계
+<img width="908" alt="스크린샷 2024-12-04 오후 10 58 06" src="https://github.com/user-attachments/assets/8c0fcd35-04de-42f6-a5da-9123e2003fed">
+<img width="908" alt="스크린샷 2024-12-04 오후 10 58 14" src="https://github.com/user-attachments/assets/a6d95907-9524-45c8-956d-736a4630770f">
 
 ## 🔗 System Architecture
 <img width="955" alt="스크린샷 2024-12-04 오후 4 59 13" src="https://github.com/user-attachments/assets/c5b1e8f1-e15e-49ab-83f6-4a2ac06cdb87">
